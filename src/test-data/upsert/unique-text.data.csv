@@ -1,0 +1,7 @@
+*,"ID","UUID","Name","Age","Key","Value"
+*,"100","0da21dfe-f543-4115-8b21-dc5cbded7ac4","alice","10","Country","UK"
+,"100","0da21dfe-f543-4115-8b21-dc5cbded7ac4","alice","10","Language","en"
+*,"200","0c7a0ea3-0ce4-4aef-be04-c15ef6b2b819","bob","15","Country","JAPAN"
+,"200","0c7a0ea3-0ce4-4aef-be04-c15ef6b2b819","bob","15","Language","ja"
+*,"300","22c03f85-99e4-4a45-a6a7-bbd3e8d4d4d5","carol","30","Country","DE"
+,"300","22c03f85-99e4-4a45-a6a7-bbd3e8d4d4d5","carol","30","Language","de"

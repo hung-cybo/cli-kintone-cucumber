@@ -1,0 +1,7 @@
+*,"Record_number","ID","UUID","Name","Age","Key","Value"
+*,"first_record_number_id","100","0da21dfe-f543-4115-8b21-dc5cbded7ac4","alice","10","Country","UK"
+,"first_record_number_id","100","0da21dfe-f543-4115-8b21-dc5cbded7ac4","alice","10","Language","en"
+*,"second_record_number_id","200","0c7a0ea3-0ce4-4aef-be04-c15ef6b2b819","bob","15","Country","JAPAN"
+,"second_record_number_id","200","0c7a0ea3-0ce4-4aef-be04-c15ef6b2b819","bob","15","Language","ja"
+*,,"300","dc805544-dd6f-4a25-af48-c51fe5ad10a0","carol","30","Country","DE"
+,,"300","dc805544-dd6f-4a25-af48-c51fe5ad10a0","carol","30","Language","de"

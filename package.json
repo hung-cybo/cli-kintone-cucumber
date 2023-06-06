@@ -1,0 +1,39 @@
+{
+  "name": "@kintone/cli-kintone-e2e-test",
+  "version": "0.0.1",
+  "publishConfig": {
+    "access": "public"
+  },
+  "author": {
+    "name": "Cybozu, Inc.",
+    "url": "https://cybozu.co.jp"
+  },
+  "description": "E2E test for cli-kintone",
+  "scripts": {
+    "test": "cucumber-js -p default"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kintone/cli-kintone.git"
+  },
+  "keywords": [
+    "kintone"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/kintone/cli-kintone/#readme",
+  "engines": {
+    "node": ">=16"
+  },
+  "devDependencies": {
+    "@cucumber/cucumber": "^9.1.2",
+    "cucumber-tsflow": "^4.0.3",
+    "@cucumber/pretty-formatter": "^1.0.0",
+    "@cybozu/eslint-config": "^18.0.3",
+    "eslint": "^8.41.0",
+    "prettier": "^2.8.8",
+    "typescript": "^5.0.4",
+    "@types/chai": "^4.3.5",
+    "ts-node": "^10.9.1",
+    "chai": "^4.3.7"
+  }
+}
